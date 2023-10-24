@@ -3,7 +3,7 @@
 
 ## Study Cases
 
-<img align="left" width="220" height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction )**
+<img align="left" width="300" height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction )**
 
 <b> Notable Skills </b>
   - Data extraction and Transformation
