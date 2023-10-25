@@ -1,5 +1,9 @@
 # Alvaro Villamizar's Data Science Portfolio
+Welcome to my portfolio's website. Here you're going to find a compilation of professional and academic projects, I have done in Data science and Analytics.
 
+Feel free to reach me at:
+- *Email:* [alvaro.villamiz@gmail.com]()
+- *LinkedIn:* [linkedin.com/in/alvarovillamizar](linkedin.com/in/lvarovillamizar)
 
 ## Study Cases
 
@@ -20,5 +24,5 @@ In this project, I studied the patterns of FitBit users during their product usa
 - <strong> Tools: </strong> SQL server, MS Excel, Git, and Power BI.
 
 ## Certificates
-- <a href=“https://www.coursera.org/account/accomplishments/specialization/certificate/YZVLZVC4TKVH”> Google Data Analytics Specialization </a>
-- <a href="https://www.linkedin.com/learning/certificates/bff815d15690ee694796c0e2f32b0180b83cfe241140ad8971e9a875006e7f2a"> Microsoft SQL Server 2022 Essential Training </a>
+- [Google Data Analytics Specialization](https://coursera.org/share/0e538e0dddace4fccf49bdf5a8f4f701)
+- [Microsoft SQL Server 2022 Essential Training](https://www.linkedin.com/learning/certificates/bff815d15690ee694796c0e2f32b0180b83cfe241140ad8971e9a875006e7f2a)
