@@ -7,7 +7,7 @@ Feel free to reach me at:
 
 ## Study Cases
 
-<img align="left" width="250" height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
+<img align="left" width="500" height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
 
 <b> Notable Skills </b>
 - <font size ="-2">Data extraction and Transformation </font>
