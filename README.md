@@ -17,6 +17,8 @@ Feel free to reach me at:
 
 In this project, I studied the patterns of FitBit users during their product usage. I considered the number of steps as an estimator of their physical activity, and weight, BMI (Body Mass Index), and gender as estimator for their BMR (Basal Metabolic Rate). The goal was to determine if whether users achieved their weight loss goals, as well as suggestions to improve clients-product relationship.
 
+#
+
 <img align="left" width="300" height=auto src="https://hmcisrael.com/wp-content/uploads/2019/08/bigstock-d-rendered-medically-accurate-285814543-300x225.jpg"> **[<u> Computational of the Glioblastoma Analysis </u>](https://github.com/AlvaroVillamizar/Glioblastomas-Analysis.git)**
 
 <b> Notable Skills </b>
