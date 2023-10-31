@@ -19,7 +19,7 @@ In this project, I studied the patterns of FitBit users during their product usa
 
 #
 
-<img align="left" width="260" height=auto src="https://hmcisrael.com/wp-content/uploads/2019/08/bigstock-d-rendered-medically-accurate-285814543-300x225.jpg"> **[<u> Computational Analysis of the Glioblastoma </u>](https://github.com/AlvaroVillamizar/Glioblastomas-Analysis.git)**
+<img align="left" width="400" height=auto src="https://assets.neurosurgicalatlas.com/aaroncohen-gadol-com/Patient_Education/Glioma/glioma-blog-7-fig-1.jpg"> **[<u> Computational Analysis of the Glioblastoma </u>](https://github.com/AlvaroVillamizar/Glioblastomas-Analysis.git)**
 
 <b> Notable Skills </b>
 - <font size ="-2">Data analysis and Interpretation </font>
