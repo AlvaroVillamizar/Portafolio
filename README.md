@@ -5,7 +5,7 @@ Feel free to reach me at:
 - *Email:* [alvaro.villamiz@gmail.com]()
 - *LinkedIn:* [linkedin.com/in/alvarovillamizar](linkedin.com/in/lvarovillamizar)
 
-## Study Cases
+## Projects
 
 <img align="left" width="400" height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
 
