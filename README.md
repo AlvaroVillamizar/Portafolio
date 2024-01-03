@@ -7,7 +7,20 @@ Feel free to reach me at:
 
 ## Study Cases
 
-<img align="left" width="400" height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
+<img align="left" width=auto height=235 src="https://instaprop.com/blog/img/blog/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg"> **[<u> Employee Survival Analysis </u>](https://github.com/AlvaroVillamizar/Employee_Survival_Analysis)**
+
+<b> Notable Skills </b>
+- <font size ="-2">Machine Learning Implementation </font>
+- <font size ="-2">Data analysis and Interpretation </font>
+- <font size ="-2">Data visualizations </font>
+- <font size ="-2">Data Reporting </font>
+
+In this project I analyzed a Human Resource dataset with information of employees who stayed and left an organization. The purpose of the analysis is to analyze the significant factors that drive employee turnover, by performing survival analysis, to then implement a Supervised Machine Learning classification model to predict whether an employee is going to quit, and analysis its main features to discussed how to improve the causes for quitting.
+
+
+#
+
+<img align="left" width=400 height=auto src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5yaiuAgK0Uo4X62OW0CAeg.png"> **[<u> FitBit Fitness Tracker Data: Case Study </u>](https://github.com/AlvaroVillamizar/FitBit-Fitness-Tracker-Data-Case-Study.git)**
 
 <b> Notable Skills </b>
 - <font size ="-2">Data extraction and Transformation </font>
