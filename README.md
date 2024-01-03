@@ -5,7 +5,7 @@ Feel free to reach me at:
 - *Email:* [alvaro.villamiz@gmail.com]()
 - *LinkedIn:* [linkedin.com/in/alvarovillamizar](linkedin.com/in/lvarovillamizar)
 
-## Study Cases
+## Projects
 
 <img align="left" width=auto height=235 src="https://instaprop.com/blog/img/blog/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg"> **[<u> Employee Survival Analysis </u>](https://github.com/AlvaroVillamizar/Employee_Survival_Analysis)**
 
