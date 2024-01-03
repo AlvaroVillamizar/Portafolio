@@ -49,5 +49,6 @@ The central objective of this project is to develop numerical simulations for an
 - <strong> Tools: </strong> SQL server, MS Excel, Git, and Power BI.
 
 ## Certificates
+- [Google Advanced Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AQCZD9T436YJ)
 - [Google Data Analytics Specialization](https://coursera.org/share/0e538e0dddace4fccf49bdf5a8f4f701)
 - [Microsoft SQL Server 2022 Essential Training](https://www.linkedin.com/learning/certificates/bff815d15690ee694796c0e2f32b0180b83cfe241140ad8971e9a875006e7f2a)
